@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SubwayFreedomAssetPack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7edf75342cb974639a805f82bcb16ffc2db4af4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03c178c349142c57a29e4bdb5782c9c01121ac1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SubwayFreedomAssetPack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SubwayFreedomAssetPack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
