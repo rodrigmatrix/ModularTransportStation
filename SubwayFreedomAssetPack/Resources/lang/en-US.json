@@ -1,6 +1,6 @@
 {
-  "Assets.NAME[FreedomSubwayStationBuilding]": "Subway Station Module",
-  "Assets.DESCRIPTION[FreedomSubwayStationBuilding]": "Create a subway station module to add, platforms with different elevations and create entrances for pedestrians to have access. Add it to somewhere you will be able to click later.",
+  "Assets.NAME[FreedomSubwayStationBuilding]": "Subway Station Module [Also invisible entrance]",
+  "Assets.DESCRIPTION[FreedomSubwayStationBuilding]": "Create a subway station module to add, platforms with different elevations and create entrances for pedestrians to have access. With the new update it now acts as an invisible entrance. Add it to somewhere you will be able to click later.",
 
   "Assets.NAME[FreedomSubwayStationEntrance01BuildingUpgrade]": "Small Subway Entrance",
   "Assets.DESCRIPTION[FreedomSubwayStationEntrance01BuildingUpgrade]": "A small subway entrance.",
