@@ -1,8 +1,8 @@
 
-## Subway Freedom
-Create unlimited entrances and platforms with different elevation for cities skylines 2.
+## Modular Transport Station
+Create unlimited entrances and platforms with different depths for cities skylines 2.
 
-<img width="200" src="https://github.com/user-attachments/assets/a4363fad-dac7-4bdb-b3b1-944c3e460a58">
+<img width="200" src="https://github.com/user-attachments/assets/67258b21-05ef-439c-a99e-b48dde85c5d9">
 
 ## For asset creators:
 - If you want to create a custom entrance and make it compatible with this mod, you can do so by creating a building and adding a ServiceUpgrade with the id: "CID:e902134afd93ed423222ac225e8eebd1". You can check the entrances present here for examples.
@@ -14,21 +14,30 @@ Create unlimited entrances and platforms with different elevation for cities sky
 <img width="960" src="https://github.com/user-attachments/assets/13225b43-3ae8-42da-b4f0-77f745f801e9">
 
 # All assets available here:
-- Subway Station Module
-- Small Subway Entrance
-- Large Subway Subway Entrance
-- Vanilla Subway Entrance
-- Medium Subway Entrace
-- Commercial 3x2 Subway Entrance
-- Bronze Statue Subway Entrance
-- Sidewalk Subway Entrance
-- Roadside Subway Entrance
-- Small Roadside Subway Entrance
-- Straight Subway Platform Elevation -20
-- Straight Subway Platform Elevation -30
-- Straight Subway Platform Elevation -40
-- Straight Subway Platform Elevation -50
-- Curved Subway Platform Elevation -20
-- Curved Subway Platform Elevation -30
-- Curved Subway Platform Elevation -40
-- Curved Subway Platform Elevation -50
+- Station Module
+- Small Station Entrance
+- Large Station Entrance
+- Vanilla Station Entrance
+- Medium Station Entrance
+- Commercial 3x2 Station Entrance
+- Bronze Statue Station Entrance
+- Sidewalk Station Entrance
+- Roadside Station Entrance
+- Small Roadside Station Entrance
+- Invisible Station Entrance
+- Straight Subway Platform Depth -20
+- Straight Subway Platform Depth -30
+- Straight Subway Platform Depth -40
+- Straight Subway Platform Depth -50
+- Straight Train Platform Depth -20
+- Straight Train Platform Depth -30
+- Straight Train Platform Depth -40
+- Straight Train Platform Depth -50
+- Straight Tram Platform Depth -20
+- Straight Tram Platform Depth -30
+- Straight Tram Platform Depth -40
+- Straight Tram Platform Depth -50
+- Curved Subway Platform Depth -20
+- Curved Subway Platform Depth -30
+- Curved Subway Platform Depth -40
+- Curved Subway Platform Depth -50
