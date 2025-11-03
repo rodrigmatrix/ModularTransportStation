@@ -33,7 +33,7 @@
                 "active": true,
                 "m_GroundPollution": 0,
                 "m_AirPollution": 0,
-                "m_NoisePollution": 1000,
+                "m_NoisePollution": 0,
                 "m_ScaleWithRenters": true
             },
             {
@@ -54,7 +54,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": null,
-                "m_Priority": 106,
+                "m_Priority": 114,
                 "m_Icon": "coui://customassets/SubwayFreedomAssetPack/FreedomSubwayCurvedPlatformLevel40/icon.png",
                 "m_IsDebugObject": false
             },

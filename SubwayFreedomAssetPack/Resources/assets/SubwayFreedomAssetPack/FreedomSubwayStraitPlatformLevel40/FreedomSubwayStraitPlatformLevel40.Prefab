@@ -33,7 +33,7 @@
                 "active": true,
                 "m_GroundPollution": 0,
                 "m_AirPollution": 0,
-                "m_NoisePollution": 1000,
+                "m_NoisePollution": 0,
                 "m_ScaleWithRenters": true
             },
             {

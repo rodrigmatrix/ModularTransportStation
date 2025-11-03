@@ -1,103 +1,84 @@
 {
-  "Assets.NAME[FreedomSubwayStationBuilding]": "Subway Station Module [Also invisible entrance]",
-  "Assets.DESCRIPTION[FreedomSubwayStationBuilding]": "Create a subway station module to add, platforms with different elevations and create entrances for pedestrians to have access. With the new update it now acts as an invisible entrance. Add it to somewhere you will be able to click later.",
+  "Assets.NAME[FreedomSubwayStationBuilding]": "Station Module [Also invisible entrance]",
+  "Assets.DESCRIPTION[FreedomSubwayStationBuilding]": "Create a station module to add, platforms with different depths for subway, trains and trams and create entrances for pedestrians to have access. With the new update it now acts as an invisible entrance. Place it on a roadside that you will be able to click later.",
 
-  "Assets.NAME[FreedomSubwayStationEntrance01BuildingUpgrade]": "Small Subway Entrance",
-  "Assets.DESCRIPTION[FreedomSubwayStationEntrance01BuildingUpgrade]": "A small subway entrance.",
-
-  "Assets.NAME[FreedomSubwayStationEntrance02BuildingUpgrade]": "Large Subway Subway Entrance",
-  "Assets.DESCRIPTION[FreedomSubwayStationEntrance02BuildingUpgrade]": "A large subway entrance.",
-
-  "Assets.NAME[FreedomSubwayStationEntrance03BuildingUpgrade]": "Vanilla Subway Entrance",
-  "Assets.DESCRIPTION[FreedomSubwayStationEntrance03BuildingUpgrade]": "The default vanilla subway station entrance.",
-
-  "Assets.NAME[FreedomSubwayStationEntrance04BuildingUpgrade]": "Medium Subway Entrace",
-  "Assets.DESCRIPTION[FreedomSubwayStationEntrance04BuildingUpgrade]": "A medium subway entrance.",
-
-  "Assets.NAME[FreedomSubwayStationEntrance05BuildingUpgrade]": "Commercial 3x2 Subway Entrance",
-  "Assets.DESCRIPTION[FreedomSubwayStationEntrance05BuildingUpgrade]": "A commercial model entrance for the station.",
-
-  "Assets.NAME[FreedomSubwayStationEntrance06BuildingUpgrade]": "Bronze Statue Subway Entrance",
-  "Assets.DESCRIPTION[FreedomSubwayStationEntrance06BuildingUpgrade]": "A subway entrance that uses the bronze statue in the game. Pedestrians can access at all sides.",
-
-  "Assets.NAME[FreedomSubwayStationEntrance07BuildingUpgrade]": "Sidewalk Subway Entrance",
-  "Assets.DESCRIPTION[FreedomSubwayStationEntrance07BuildingUpgrade]": "A subway entrance that needs to be placed on the sidewalk of a road. Pedestrians that are walking on the sidewalk will have access to the station. Your road needs to have a sidewalk.",
-
-  "Assets.NAME[FreedomSubwayStationEntrance08BuildingUpgrade]": "Small Roadside Subway Entrance",
-  "Assets.DESCRIPTION[FreedomSubwayStationEntrance08BuildingUpgrade]": "A small roadside subway entrance to be placed on the side of a road or sidewalk.",
-
-  "Assets.NAME[FreedomSubwayStraitPlatformLevel20]": "Straight Subway Platform Elevation -20",
-  "Assets.DESCRIPTION[FreedomSubwayStraitPlatformLevel20]": "The track installation upgrade for the Module Subway Station with -20 of elevation.",
-
-  "Assets.NAME[FreedomSubwayStraitPlatformLevel30]": "Straight Subway Platform Elevation -30",
-  "Assets.DESCRIPTION[FreedomSubwayStraitPlatformLevel30]": "The track installation upgrade for the Module Subway Station with -30 of elevation.",
-
-  "Assets.NAME[FreedomSubwayStraitPlatformLevel40]": "Straight Subway Platform Elevation -40",
-  "Assets.DESCRIPTION[FreedomSubwayStraitPlatformLevel40]": "The track installation upgrade for the Module Subway Station with -40 of elevation.",
-
-  "Assets.NAME[FreedomSubwayStraitPlatformLevel50]": "Straight Subway Platform Elevation -50",
-  "Assets.DESCRIPTION[FreedomSubwayStraitPlatformLevel50]": "The track installation upgrade for the Module Subway Station with -50 of elevation.",
-
-  "Assets.NAME[FreedomSubwayCurvedPlatformLevel20]": "Curved Subway Platform Elevation -20",
-  "Assets.DESCRIPTION[FreedomSubwayCurvedPlatformLevel20]": "The track installation upgrade for the Module Subway Station with -20 of elevation and a curved 90 degree angle.",
-
-  "Assets.NAME[FreedomSubwayCurvedPlatformLevel30]": "Curved Subway Platform Elevation -30",
-  "Assets.DESCRIPTION[FreedomSubwayCurvedPlatformLevel30]": "The track installation upgrade for the Module Subway Station with -30 of elevation and a curved 90 degree angle.",
-
-  "Assets.NAME[FreedomSubwayCurvedPlatformLevel40]": "Curved Subway Platform Elevation -40",
-  "Assets.DESCRIPTION[FreedomSubwayCurvedPlatformLevel40]": "The track installation upgrade for the Module Subway Station with -40 of elevation and a curved 90 degree angle.",
-
-  "Assets.NAME[FreedomSubwayCurvedPlatformLevel50]": "Curved Subway Platform Elevation -50",
-  "Assets.DESCRIPTION[FreedomSubwayCurvedPlatformLevel50]": "The track installation upgrade for the Module Subway Station with -50 of elevation and a curved 90 degree angle.",
-
-
-  // Upgrades
-
-  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance01BuildingUpgrade]": "Small Subway Entrance",
+  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance01BuildingUpgrade]": "Small Entrance",
   "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance01BuildingUpgrade]": "A small subway entrance.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance02BuildingUpgrade]": "Large Subway Subway Entrance",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance02BuildingUpgrade]": "A large subway entrance.",
+  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance02BuildingUpgrade]": "Large Station Entrance",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance02BuildingUpgrade]": "A large station entrance.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance03BuildingUpgrade]": "Vanilla Subway Entrance",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance03BuildingUpgrade]": "The default vanilla subway station entrance.",
+  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance03BuildingUpgrade]": "Vanilla Station Entrance",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance03BuildingUpgrade]": "The default vanilla station entrance.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance04BuildingUpgrade]": "Medium Subway Entrace",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance04BuildingUpgrade]": "A medium subway entrance.",
+  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance04BuildingUpgrade]": "Medium Station Entrance",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance04BuildingUpgrade]": "A medium station entrance.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance05BuildingUpgrade]": "Commercial 3x2 Subway Entrance",
+  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance05BuildingUpgrade]": "Commercial 3x2 Station Entrance",
   "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance05BuildingUpgrade]": "A commercial model entrance for the station.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance06BuildingUpgrade]": "Bronze Statue Subway Entrance",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance06BuildingUpgrade]": "A subway entrance that uses the bronze statue in the game. Pedestrians can access at all sides.",
+  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance06BuildingUpgrade]": "Bronze Statue Station Entrance",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance06BuildingUpgrade]": "An entrance that uses the bronze statue in the game. Pedestrians can access at all sides.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance07BuildingUpgrade]": "Sidewalk Subway Entrance",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance07BuildingUpgrade]": "A subway entrance that needs to be placed on the sidewalk of a road. Pedestrians that are walking on the sidewalk will have access to the station. Your road needs to have a sidewalk.",
+  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance07BuildingUpgrade]": "Sidewalk Station Entrance",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance07BuildingUpgrade]": "An entrance that needs to be placed on the sidewalk of a road. Pedestrians that are walking on the sidewalk will have access to the station. Your road needs to have a sidewalk.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance08BuildingUpgrade]": "Small Roadside Subway Entrance",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance08BuildingUpgrade]": "A small roadside subway entrance to be placed on the side of a road or sidewalk.",
+  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance08BuildingUpgrade]": "Small Roadside Station Entrance",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance08BuildingUpgrade]": "A small roadside entrance to be placed on the side of a road or sidewalk.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayStraitPlatformLevel20]": "Straight Subway Platform Elevation -20",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStraitPlatformLevel20]": "The track installation upgrade for the Module Subway Station with -20 of elevation.",
+  "Assets.UPGRADE_NAME[FreedomSubwayStationEntrance09BuildingUpgrade]": "Invisible Station Entrance",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationEntrance09BuildingUpgrade]": "An invisible entrance that can be added for pedestrian to have access to the station. Place it inside a building or on a hidden place that pedestrian have access.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayStraitPlatformLevel30]": "Straight Subway Platform Elevation -30",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStraitPlatformLevel30]": "The track installation upgrade for the Module Subway Station with -30 of elevation.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayStraitPlatformLevel40]": "Straight Subway Platform Elevation -40",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStraitPlatformLevel40]": "The track installation upgrade for the Module Subway Station with -40 of elevation.",
+  "Assets.UPGRADE_NAME[FreedomSubwayStraitPlatformLevel20]": "Straight Subway Platform -20",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStraitPlatformLevel20]": "The subway track installation upgrade for the Module Station with -20 of depth.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayStraitPlatformLevel50]": "Straight Subway Platform Elevation -50",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStraitPlatformLevel50]": "The track installation upgrade for the Module Subway Station with -50 of elevation.",
+  "Assets.UPGRADE_NAME[FreedomSubwayStraitPlatformLevel30]": "Straight Subway Platform -30",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStraitPlatformLevel30]": "The subway track installation upgrade for the Module Station with -30 of depth.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayCurvedPlatformLevel20]": "Curved Subway Platform Elevation -20",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayCurvedPlatformLevel20]": "The track installation upgrade for the Module Subway Station with -20 of elevation and a curved 90 degree angle.",
+  "Assets.UPGRADE_NAME[FreedomSubwayStraitPlatformLevel40]": "Straight Subway Platform -40",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStraitPlatformLevel40]": "The subway track installation upgrade for the Module Station with -40 of depth.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayCurvedPlatformLevel30]": "Curved Subway Platform Elevation -30",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayCurvedPlatformLevel30]": "The track installation upgrade for the Module Subway Station with -30 of elevation and a curved 90 degree angle.",
+  "Assets.UPGRADE_NAME[FreedomSubwayStraitPlatformLevel50]": "Straight Subway Platform -50",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStraitPlatformLevel50]": "The subway track installation upgrade for the Module Station with -50 of depth.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayCurvedPlatformLevel40]": "Curved Subway Platform Elevation -40",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayCurvedPlatformLevel40]": "The track installation upgrade for the Module Subway Station with -40 of elevation and a curved 90 degree angle.",
 
-  "Assets.UPGRADE_NAME[FreedomSubwayCurvedPlatformLevel50]": "Curved Subway Platform Elevation -50",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayCurvedPlatformLevel50]": "The track installation upgrade for the Module Subway Station with -50 of elevation and a curved 90 degree angle."
+  "Assets.UPGRADE_NAME[FreedomTrainStraitPlatformLevel20]": "Straight Train Platform -20",
+  "Assets.UPGRADE_DESCRIPTION[FreedomTrainStraitPlatformLevel20]": "The train track installation upgrade for the Module Station with -20 of depth.",
+
+  "Assets.UPGRADE_NAME[FreedomTrainStraitPlatformLevel30]": "Straight Train Platform -30",
+  "Assets.UPGRADE_DESCRIPTION[FreedomTrainStraitPlatformLevel30]": "The train track installation upgrade for the Module Station with -30 of depth.",
+
+  "Assets.UPGRADE_NAME[FreedomTrainStraitPlatformLevel40]": "Straight Train Platform -40",
+  "Assets.UPGRADE_DESCRIPTION[FreedomTrainStraitPlatformLevel40]": "The train track installation upgrade for the Module Station with -40 of depth.",
+
+  "Assets.UPGRADE_NAME[FreedomTrainStraitPlatformLevel50]": "Straight Train Platform -50",
+  "Assets.UPGRADE_DESCRIPTION[FreedomTrainStraitPlatformLevel50]": "The train track installation upgrade for the Module Station with -50 of depth.",
+
+  
+  "Assets.UPGRADE_NAME[FreedomTramStraitPlatformLevel20]": "Straight Tram Platform -20",
+  "Assets.UPGRADE_DESCRIPTION[FreedomTramStraitPlatformLevel20]": "The tram track installation upgrade for the Module Station with -20 of depth.",
+
+  "Assets.UPGRADE_NAME[FreedomTramStraitPlatformLevel30]": "Straight Tram Platform -30",
+  "Assets.UPGRADE_DESCRIPTION[FreedomTramStraitPlatformLevel30]": "The tram track installation upgrade for the Module Station with -30 of depth.",
+
+  "Assets.UPGRADE_NAME[FreedomTramStraitPlatformLevel40]": "Straight Tram Platform -40",
+  "Assets.UPGRADE_DESCRIPTION[FreedomTramStraitPlatformLevel40]": "The tram track installation upgrade for the Module Station with -40 of depth.",
+
+  "Assets.UPGRADE_NAME[FreedomTramStraitPlatformLevel50]": "Straight Tram Platform -50",
+  "Assets.UPGRADE_DESCRIPTION[FreedomTramStraitPlatformLevel50]": "The tram track installation upgrade for the Module Station with -50 of depth.",
+
+
+
+  "Assets.UPGRADE_NAME[FreedomSubwayCurvedPlatformLevel20]": "Curved Subway Platform -20",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayCurvedPlatformLevel20]": "The subway track installation upgrade for the Station Module with -20 of depth and a curved 90 degree angle.",
+
+  "Assets.UPGRADE_NAME[FreedomSubwayCurvedPlatformLevel30]": "Curved Subway Platform -30",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayCurvedPlatformLevel30]": "The subway track installation upgrade for the Station Module with -30 of depth and a curved 90 degree angle.",
+
+  "Assets.UPGRADE_NAME[FreedomSubwayCurvedPlatformLevel40]": "Curved Subway Platform -40",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayCurvedPlatformLevel40]": "The subway track installation upgrade for the Station Module with -40 of depth and a curved 90 degree angle.",
+
+  "Assets.UPGRADE_NAME[FreedomSubwayCurvedPlatformLevel50]": "Curved Subway Platform -50",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayCurvedPlatformLevel50]": "The subway track installation upgrade for the Station Module with -50 of depth and a curved 90 degree angle."
 }

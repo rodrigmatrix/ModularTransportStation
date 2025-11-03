@@ -2,22 +2,22 @@
 	<!--Id must be set in order to update existed mod. it is not required for publishing mod for the first time-->
 	<ModId Value="84644" />
 	<!--Name of the mod to display to players-->
-	<DisplayName Value="Subway Freedom" />
+	<DisplayName Value="Modular Transport Station [Subway Freedom]" />
 	<!--Short description of the mod-->
 	<ShortDescription Value="Create unlimited entrances and platforms with different elevation." />
 	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
 	<!--LongDescription Value="This is a long description" /-->
 	<LongDescription>
-## Subway Freedom
-Create unlimited entrances and platforms with different elevation.
+## Modular Transport Station [Previously Subway Freedom]
+Create unlimited entrances and platforms with different depths for Subway, Trains, and Trams.
 
 ## How to use it:
 
 You can watch the linked YouTube video to understand how it works or read bellow.
 
-- 1 Create a Subway Station Module: Place the module on the side of a street. You will need that to add more upgrades. It also acts as an invisible entrance so pedestrians will be spawning on it.
+- 1 Create a Station Module: Go to the Subway tab and place the Station Module asset on the side of a street. You will need that to add more upgrades. It also acts as an invisible entrance so pedestrians will be spawning on it.
 
-- 2 Place a platform: You can choose the elevation level and if it's strait or curved. Use anarchy and disable snapping to place anywhere you want. You can add as many as you want.
+- 2 Place a platform: You can choose the elevation level and line type and if it's strait or curved. Use anarchy and disable snapping to place anywhere you want. You can add as many as you want.
 
 - 3 Place an entrance: To the passengers to have access, place and entrance on the side of a road or connect invisible pedestrian paths to it. You can have as many as you want.
 
@@ -39,25 +39,33 @@ This also happens to other buildings and is caused by the ExtraDetailingTools de
 - If you want to create a custom entrance and make it compatible with this mod, you can do so by creating a building and adding a ServiceUpgrade with the id: "CID:e902134afd93ed423222ac225e8eebd1". You can check the entrances present here for examples.
 
 # All assets available here:
-- Subway Station Module
-- Small Subway Entrance
-- Large Subway Entrance
-- Vanilla Subway Entrance
-- Medium Subway Entrance
-- Commercial 3x2 Subway Entrance
-- Bronze Statue Subway Entrance
-- Sidewalk Subway Entrance
-- Roadside Subway Entrance
-- Small Roadside Subway Entrance
-- Invisible Subway Entrance
-- Straight Subway Platform Elevation -20
-- Straight Subway Platform Elevation -30
-- Straight Subway Platform Elevation -40
-- Straight Subway Platform Elevation -50
-- Curved Subway Platform Elevation -20
-- Curved Subway Platform Elevation -30
-- Curved Subway Platform Elevation -40
-- Curved Subway Platform Elevation -50
+- Station Module
+- Small Station Entrance
+- Large Station Entrance
+- Vanilla Station Entrance
+- Medium Station Entrance
+- Commercial 3x2 Station Entrance
+- Bronze Statue Station Entrance
+- Sidewalk Station Entrance
+- Roadside Station Entrance
+- Small Roadside Station Entrance
+- Invisible Station Entrance
+- Straight Subway Platform Depth -20
+- Straight Subway Platform Depth -30
+- Straight Subway Platform Depth -40
+- Straight Subway Platform Depth -50
+- Straight Train Platform Depth -20
+- Straight Train Platform Depth -30
+- Straight Train Platform Depth -40
+- Straight Train Platform Depth -50
+- Straight Tram Platform Depth -20
+- Straight Tram Platform Depth -30
+- Straight Tram Platform Depth -40
+- Straight Tram Platform Depth -50
+- Curved Subway Platform Depth -20
+- Curved Subway Platform Depth -30
+- Curved Subway Platform Depth -40
+- Curved Subway Platform Depth -50
 
 ## Upgrades Order
 It's recommended to use the [Asset UI Manager](https://mods.paradoxplaza.com/mods/98560/Windows) to have the upgrades ordered. 
@@ -80,17 +88,22 @@ Also thanks to TDW for the Asset Icon Creator.
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="https://forum.paradoxplaza.com/forum/threads/subway-freedom-asset-pack-mod-discussion.1694309/" />
 	<!--Version of the mod-->
-	<ModVersion Value="1.6" />
+	<ModVersion Value="2.0" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="1.*" />
   <Dependency Id="78903" />
   <Dependency Id="74604" />
   <!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
   <ChangeLog>
-# v1.6
-  - Fixed issues with missing pedestrian access. To fix stations, you'll have to remove every upgrade and module and add a new one. If you need an easy fix, add a sidewalk entrance to a module.
-  - Station modules now need to act as an invisible entrance. For more realism, add a module and them and entrance or building on top of it. This was the only possible way for now to fix the issues for the new game update.
-  - Fixed unserializable string issue
+# v2.0
+  - Subway Freedom is now called Modular Transport Stations.
+  - You can now add trains and trams platforms to your current stations with different depths.
+  - Stations will now be compatible with overground assets. I'll be working on adding some overground entrances/platforms that will also provide transfers to underground platforms.
+
+# Changes from v1.6
+- Fixed issues with missing pedestrian access. To fix stations, you'll have to remove every upgrade and module and add a new one. If you need an easy fix, add a sidewalk entrance to a module.
+- Station modules now need to act as an invisible entrance. For more realism, add a module and them and entrance or building on top of it. This was the only possible way for now to fix the issues for the new game update.
+- Fixed unserializable string issue
   </ChangeLog>
 	<!--ChangeLog>
 	</ChangeLog-->
