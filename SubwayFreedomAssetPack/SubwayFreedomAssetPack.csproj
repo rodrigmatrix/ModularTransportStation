@@ -28,6 +28,27 @@
 		<Reference Include="Colossal.IO.AssetDatabase">
 			<Private>false</Private>
 		</Reference>
+		<Reference Include="Colossal.UI">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.UI.Binding">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.PSI.Common">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.IO">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.Localization">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Unity.InputSystem">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.Mathematics">
+			<Private>false</Private>
+		</Reference>
 		<Reference Include="UnityEngine.CoreModule">
 			<Private>false</Private>
 		</Reference>
@@ -41,6 +62,64 @@
 			<Private>false</Private>
 		</Reference>
 		<Reference Include="Unity.Mathematics">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.Collections">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.IO.AssetDatabase">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.Localization">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.Mathematics">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.PSI.Common">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.UI.Binding">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Game">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.Core">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.Logging">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="mscorlib">
+			<Private>false</Private>
+			<HintPath>$(ManagedPath)\mscorlib.dll</HintPath>
+		</Reference>
+		<Reference Include="Unity.InputSystem">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Unity.RenderPipelines.Core.Runtime">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="UnityEngine.CoreModule">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Unity.Burst">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Unity.Collections">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Unity.Entities">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Unity.Mathematics">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="UnityEngine.IMGUIModule">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="UnityEngine.AudioModule">
 			<Private>false</Private>
 		</Reference>
 	</ItemGroup>
@@ -64,7 +143,12 @@
 
   <ItemGroup>
     <Folder Include="Resources\assets\SubwayFreedomAssetPack\" />
+    <Folder Include="UI\src\mods\domain\" />
   </ItemGroup>
+
+	<Target Name="BuildUI" AfterTargets="AfterBuild">
+		<Exec Command="npm run build" WorkingDirectory="$(ProjectDir)/UI" />
+	</Target>
 
   <Target Name="GetAdditionalFiles" AfterTargets="DeployWIP">
     <ItemGroup>
