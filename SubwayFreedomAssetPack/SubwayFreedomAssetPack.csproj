@@ -142,13 +142,8 @@
 	</ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Resources\assets\SubwayFreedomAssetPack\" />
-    <Folder Include="UI\src\mods\domain\" />
+    <Folder Include="Resources\StreamingData~\" />
   </ItemGroup>
-
-	<Target Name="BuildUI" AfterTargets="AfterBuild">
-		<Exec Command="npm run build" WorkingDirectory="$(ProjectDir)/UI" />
-	</Target>
 
   <Target Name="GetAdditionalFiles" AfterTargets="DeployWIP">
     <ItemGroup>
