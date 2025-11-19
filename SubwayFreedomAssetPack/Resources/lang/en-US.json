@@ -80,5 +80,21 @@
   "Assets.UPGRADE_DESCRIPTION[FreedomSubwayCurvedPlatformLevel40]": "The subway track installation upgrade for the Station Module with -40 of depth and a curved 90 degree angle.",
 
   "Assets.UPGRADE_NAME[FreedomSubwayCurvedPlatformLevel50]": "Curved Subway Platform -50",
-  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayCurvedPlatformLevel50]": "The subway track installation upgrade for the Station Module with -50 of depth and a curved 90 degree angle."
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayCurvedPlatformLevel50]": "The subway track installation upgrade for the Station Module with -50 of depth and a curved 90 degree angle.",
+
+
+  "Assets.UPGRADE_NAME[FreedomBusStation01]": "Bus Station",
+  "Assets.UPGRADE_DESCRIPTION[FreedomBusStation01]": "A bus station for public transportation. Also serves as an entrance to the module and underground platforms.",
+
+  "Assets.UPGRADE_NAME[FreedomBusStation02]": "Small Bus Station",
+  "Assets.UPGRADE_DESCRIPTION[FreedomBusStation02]": "A bus station for public transportation. Also serves as an entrance to the module and underground platforms.",
+
+  "Assets.UPGRADE_NAME[FreedomSubwayStation02]": "Overground Subway Station",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStation02]": "A subway station for underground transportation. Also serves as an entrance to the module and underground platforms.",
+
+  "Assets.UPGRADE_NAME[FreedomSubwayStationElevated01]": "Small Elevated Subway Station",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationElevated01]": "An elevated subway station for above-ground transportation. Also serves as an entrance to the module and underground platforms.",
+
+  "Assets.UPGRADE_NAME[FreedomSubwayStationElevated02]": "Medium Elevated Subway Station",
+  "Assets.UPGRADE_DESCRIPTION[FreedomSubwayStationElevated02]": "An elevated subway station for above-ground transportation. Also serves as an entrance to the module and underground platforms."
 }

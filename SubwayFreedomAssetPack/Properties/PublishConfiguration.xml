@@ -66,12 +66,13 @@ This also happens to other buildings and is caused by the ExtraDetailingTools de
 - Curved Subway Platform Depth -30
 - Curved Subway Platform Depth -40
 - Curved Subway Platform Depth -50
-
-## Upgrades Order
-It's recommended to use the [Asset UI Manager](https://mods.paradoxplaza.com/mods/98560/Windows) to have the upgrades ordered. 
-This can help a lot when browsing the assets. Thanks to StarQ for his work.
+- Bus Station
+- Small Bus Station
+- Overground Subway Station
+- Small Elevated Subway Station
+- Medium Elevated Subway Station
         
-Also thanks to TDW for the Asset Icon Creator.
+Thanks to TDW for the Asset Icon Creator.
   </LongDescription>
 	<!--Thumbnail-->
   <Thumbnail Value="ParadoxRes/Thumbnail.png" />
@@ -88,22 +89,22 @@ Also thanks to TDW for the Asset Icon Creator.
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="https://forum.paradoxplaza.com/forum/threads/subway-freedom-asset-pack-mod-discussion.1694309/" />
 	<!--Version of the mod-->
-	<ModVersion Value="2.0" />
+	<ModVersion Value="3.0" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="1.*" />
-  <Dependency Id="78903" />
   <Dependency Id="74604" />
+  <Dependency Id="75426" />
   <!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
   <ChangeLog>
-# v2.0
-  - Subway Freedom is now called Modular Transport Stations.
+# v3.0
+  - Added new bus stations, elevated and overground subway stations and as module upgrades. They serve both as platforms but also provide access to underground platforms and transfer points.
+  - Module is now part of the bus tab for easier usage.
+  - 5 new assets for overground and elevated stations. Train, Trams and bikes will be added in future updates.
+  - Bug fixes
+      
+# Changes from 2.0
+  - Subway Freedom is now called Modular Transport Station.
   - You can now add trains and trams platforms to your current stations with different depths.
-  - Stations will now be compatible with overground assets. I'll be working on adding some overground entrances/platforms that will also provide transfers to underground platforms.
-
-# Changes from v1.6
-- Fixed issues with missing pedestrian access. To fix stations, you'll have to remove every upgrade and module and add a new one. If you need an easy fix, add a sidewalk entrance to a module.
-- Station modules now need to act as an invisible entrance. For more realism, add a module and them and entrance or building on top of it. This was the only possible way for now to fix the issues for the new game update.
-- Fixed unserializable string issue
   </ChangeLog>
 	<!--ChangeLog>
 	</ChangeLog-->
