@@ -2,7 +2,8 @@
 ## Modular Transport Station
 Create unlimited entrances and platforms with different depths for cities skylines 2.
 
-<img width="200" src="https://github.com/user-attachments/assets/67258b21-05ef-439c-a99e-b48dde85c5d9">
+<img width="600" height="600" alt="gradient-background (3)" src="https://github.com/user-attachments/assets/7413860a-2d5a-4c4b-b1f0-ed3ae98c00d1" />
+
 
 ## For asset creators:
 - If you want to create a custom entrance and make it compatible with this mod, you can do so by creating a building and adding a ServiceUpgrade with the id: "CID:e902134afd93ed423222ac225e8eebd1". You can check the entrances present here for examples.
