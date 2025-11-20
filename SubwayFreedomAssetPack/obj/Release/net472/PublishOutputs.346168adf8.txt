@@ -1,2 +1,0 @@
-C:\Users\rodri\OneDrive\Documents\Cities Mods Git\SubwayFreedom\SubwayFreedomAssetPack\bin\Release\net472\SubwayFreedomAssetPack.dll
-C:\Users\rodri\OneDrive\Documents\Cities Mods Git\SubwayFreedom\SubwayFreedomAssetPack\bin\Release\net472\SubwayFreedomAssetPack.pdb
